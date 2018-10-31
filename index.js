@@ -113,6 +113,7 @@ export default class CheckBox extends Component {
                 onPress={() => this.onClick()}
                 underlayColor='transparent'
                 disabled={this.props.disabled}
+                testID={this.props.testID}
             >
                 <View style={styles.container}>
                     {this._renderLeft()}
