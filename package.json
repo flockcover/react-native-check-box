@@ -1,5 +1,5 @@
 {
-  "name": "react-native-check-box",
+  "name": "@flockcover/react-native-check-box",
   "version": "2.1.6",
   "description": "Checkbox component for react native, it works on iOS and Android.",
   "main": "index.js",

@@ -1,11 +1,14 @@
+# Reason for fork:
+
+We needed a testID prop passed through to the TouchableOpacity. There is a Pull Request open upstream to add this and
+once / if merged we can go back to using the source library. 
+
 # react-native-check-box
 
 [ ![release](https://img.shields.io/github/release/crazycodeboy/react-native-check-box.svg?maxAge=2592000?style=flat-square)](https://github.com/crazycodeboy/react-native-check-box/releases)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/crazycodeboy/react-native-check-box/pulls)
 [ ![NPM version](http://img.shields.io/npm/v/react-native-check-box.svg?style=flat)](https://www.npmjs.com/package/react-native-check-box)
 [![License MIT](http://img.shields.io/badge/license-MIT-orange.svg?style=flat)](https://raw.githubusercontent.com/crazycodeboy/react-native-check-box/master/LICENSE)
-
-
 
 Checkbox component for react native, it works on iOS and Android.
 
